@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:english_words/english_words.dart';
 
 void main() => runApp(MyApp()); // The main method specifies fat arrow (=>) notation. Use fat arrow notation for one-line functions or methods.
 
